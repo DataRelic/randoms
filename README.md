@@ -1,1 +1,2 @@
-"# randoms" 
+### Random Notes, thoughts and ramblings
+
