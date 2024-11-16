@@ -1,3 +1,18 @@
 ### Random Notes, thoughts and ramblings
-Mac
-Windows
+
+### Youtube
+
+https://www.youtube.com/@richarde.borcherds7998/videos
+https://www.youtube.com/@mathemaniac/videos
+https://www.youtube.com/@deepmath9408/videos
+https://www.youtube.com/@PrimerBlobs/videos
+
+https://www.youtube.com/@SebastianLague/videos
+https://www.youtube.com/@acegikmo/videos
+https://www.youtube.com/@SimonsInstituteTOC/videos
+https://www.youtube.com/@GPUMODE/videos
+https://www.youtube.com/@carykh/videos
+https://www.youtube.com/@BranchEducation/videos
+
+### Github
+https://github.com/EinGuterWaran/awesome-opensource-boilerplates
