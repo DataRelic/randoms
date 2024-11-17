@@ -16,3 +16,4 @@ https://www.youtube.com/@BranchEducation/videos
 
 ### Github
 https://github.com/EinGuterWaran/awesome-opensource-boilerplates
+https://github.com/AnswerDotAI/llms-txt
