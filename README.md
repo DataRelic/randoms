@@ -17,3 +17,7 @@ https://www.youtube.com/@BranchEducation/videos
 ### Github
 https://github.com/EinGuterWaran/awesome-opensource-boilerplates
 https://github.com/AnswerDotAI/llms-txt
+
+
+### Blogs, Write-ups and other stuffs
+https://karpathy.github.io/2015/05/21/rnn-effectiveness/
