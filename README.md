@@ -25,14 +25,12 @@ https://github.com/stackblitz/bolt.new                                          
 https://karpathy.github.io/2015/05/21/rnn-effectiveness/
 
 
-- [Link](https://beta.dreamstudio.ai/)
-- [Link](https://www.midjourney.com/)
-- [Link](https://www.wombo.art/)
-- [Link](https://nightcafe.studio/)
-- [Link](https://nmkd.itch.io/t2i-gui)
-- [Link](https://softology.com.au/voc.htm)
-- [Link](https://pharmapsychotic.com/training.html)
-- [Link](https://pharmapsychotic.com/animation.html)
+- [DreamStudio](https://beta.dreamstudio.ai/)
+- [MidJourney](https://www.midjourney.com/)
+- [Wombo](https://www.wombo.art/)
+- [nightCafe](https://nightcafe.studio/)
+- [Itch.io](https://nmkd.itch.io/t2i-gui)
+- [VisionsofChaos](https://softology.com.au/voc.htm)
 
 
 - [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
