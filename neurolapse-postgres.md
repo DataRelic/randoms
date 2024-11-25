@@ -1,9 +1,10 @@
 ### install sudo apt install -y git build-essential libpq-dev postgresql-server-dev-14
 ### add support for vectors
-```git clone https://github.com/pgvector/pgvector.git
- cd pgvector/
- make
- sudo make install ```
+```bash
+git clone https://github.com/pgvector/pgvector.git
+cd pgvector/
+make
+sudo make install ```
 
 
 CREATE DATABASE neurolapse_db
