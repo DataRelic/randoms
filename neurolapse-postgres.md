@@ -4,9 +4,11 @@
 git clone https://github.com/pgvector/pgvector.git
 cd pgvector/
 make
-sudo make install ```
+sudo make install 
+```
 
-
+### Create DB
+```bash
 CREATE DATABASE neurolapse_db
     WITH 
     OWNER = neurolapse_dev
@@ -20,5 +22,7 @@ GRANT ALL PRIVILEGES ON DATABASE neurolapse_db TO neurolapse_dev;
 GRANT ALL PRIVILEGES ON SCHEMA public TO neurolapse_dev;
 ALTER DEFAULT PRIVILEGES IN SCHEMA public GRANT ALL ON TABLES TO neurolapse_dev;
 ALTER DEFAULT PRIVILEGES IN SCHEMA public GRANT ALL ON SEQUENCES TO neurolapse_dev;
+```
+
 
 
