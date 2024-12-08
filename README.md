@@ -16,6 +16,9 @@ https://www.youtube.com/@carykh/videos
 https://www.youtube.com/@BranchEducation/videos
 
 ### Github
+https://github.com/anthropics/anthropic-cookbook
+https://github.com/microsoft/TRELLIS/issues/3                                       # Structured 3D Latents
+for Scalable and Versatile 3D Generation 
 https://github.com/EinGuterWaran/awesome-opensource-boilerplates                    # A curated list of open source boilerplates and starter templates to kickstart your next project.
 https://github.com/AnswerDotAI/llms-txt                                             # llms.txt standard helps websites offer concise, LLM-friendly markdown content and links for better AI information retrieval.
 https://github.com/elder-plinius/L1B3RT4S                                           # Pliny's LLM JailBreaks
