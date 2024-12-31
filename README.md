@@ -138,7 +138,7 @@ https://karpathy.github.io/2015/05/21/rnn-effectiveness/
 * https://github.com/erikbern/ann-benchmarks
 
 
-# Deprecated
+# More Stuffs
 * https://github.com/chenfei-wu/TaskMatrix
 * https://github.com/tg12/gpt_jailbreak_status
 
