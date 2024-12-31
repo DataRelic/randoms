@@ -2,7 +2,7 @@
 
 ### Youtube
 
-https://www.youtube.com/@AndrejKarpathy/videos
+https://www.youtube.com/@AndrejKarpathy/videos \n
 https://www.youtube.com/@richarde.borcherds7998/videos
 https://www.youtube.com/@mathemaniac/videos
 https://www.youtube.com/@deepmath9408/videos
