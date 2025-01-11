@@ -25,7 +25,8 @@ https://www.youtube.com/@carykh/videos
 https://www.youtube.com/@BranchEducation/videos  
 
 ### Github
-
+https://github.com/openSVM/aingels
+https://github.com/SamuelSchmidgall/AgentLaboratory
 https://github.com/anthropics/anthropic-cookbook  
 
 https://github.com/microsoft/TRELLIS/issues/3                                       # Structured 3D Latents for Scalable and Versatile 3D Generation  
