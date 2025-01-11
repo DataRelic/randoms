@@ -37,6 +37,7 @@ https://github.com/AnswerDotAI/llms-txt                                         
 https://github.com/elder-plinius/L1B3RT4S                                          # Pliny's LLM JailBreaks  
 
 https://github.com/stackblitz/bolt.new                                             # AI-Powered Full-Stack Web Development in the Browser  
+https://github.com/stackblitz-labs/bolt.diy                                        # added export/download feature + multiple API providers
 
 ### Blogs, Write-ups and other stuffs
 https://karpathy.github.io/2015/05/21/rnn-effectiveness/
