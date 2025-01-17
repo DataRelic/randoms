@@ -25,6 +25,9 @@ https://www.youtube.com/@carykh/videos
 https://www.youtube.com/@BranchEducation/videos  
 
 ### Github
+
+https://github.com/punkpeye/awesome-mcp-servers
+
 https://github.com/openSVM/aingels
 
 https://github.com/SamuelSchmidgall/AgentLaboratory
