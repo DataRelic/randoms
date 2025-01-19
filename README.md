@@ -28,6 +28,8 @@ https://www.youtube.com/@BranchEducation/videos
 
 https://github.com/punkpeye/awesome-mcp-servers
 
+https://github.com/patchy631/ai-engineering-hub/
+
 https://github.com/openSVM/aingels
 
 https://github.com/SamuelSchmidgall/AgentLaboratory
