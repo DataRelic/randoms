@@ -4,6 +4,26 @@
 
 https://www.youtube.com/@AndrejKarpathy/videos  
 
+Linear Algebra by Imperial College London: https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3
+
+3Blue1Brown's "Essence of Linear Algebra" playlist: https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+
+
+Multivariate Calculus by Imperial College London: https://www.youtube.com/playlist?list=PLiiljHvN6z193BBzS0Ln8NnqQmzimTW23
+
+Probability Theory from The Bright Side of Mathematics: https://www.youtube.com/playlist?list=PLBh2i93oe2qswFOC98oSFc37-0f4S3D4z
+Coding
+
+Machine Learning by Josh Starmer from StatQuest: https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF
+
+Deep Learning by Josh Starmer from StatQuest: https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1
+
+Neural networks from 3Blue1Brown: https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+
+Implement all the models learned in the playlists in PyTorch. You can follow this playlist: https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4
+
+Become proficient in coding Deep Learning models by following Andrej Karpathy's Zero to Hero series: https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
+
 https://www.youtube.com/@richarde.borcherds7998/videos  
 
 https://www.youtube.com/@mathemaniac/videos  
@@ -25,6 +45,7 @@ https://www.youtube.com/@carykh/videos
 https://www.youtube.com/@BranchEducation/videos  
 
 ### Github
+https://github.com/Tencent/Hunyuan3D-2
 
 https://github.com/punkpeye/awesome-mcp-servers
 
