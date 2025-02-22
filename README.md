@@ -45,6 +45,9 @@ https://www.youtube.com/@carykh/videos
 https://www.youtube.com/@BranchEducation/videos  
 
 ### Github
+
+https://github.com/codecrafters-io/build-your-own-x.git
+
 https://github.com/Tencent/Hunyuan3D-2
 
 https://github.com/punkpeye/awesome-mcp-servers
