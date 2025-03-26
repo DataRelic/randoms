@@ -2,6 +2,7 @@
 
 ## YouTube Channels & Playlists
 
+
 - [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy/videos)
 - [Linear Algebra by Imperial College London](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
 - [3Blue1Brown's "Essence of Linear Algebra"](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
