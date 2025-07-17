@@ -61,6 +61,7 @@ A curated collection of valuable resources for AI researchers, developers, and e
 - [CrewAI](https://github.com/joaomdmoura/crewAI) - Orchestrating role-playing autonomous agents
 - [AutoGen](https://github.com/microsoft/autogen) - Framework for multiple agents
 - [MoA](https://github.com/togethercomputer/MoA) - Method of Agents for LLM collaboration
+- [Trae Agent](https://github.com/bytedance/trae-agent) - Research-focused CLI agent for software engineering tasks
 
 ### Core LLM Application Frameworks
 - [LlamaIndex](https://github.com/run-llama/llama_index) - Framework for LLM applications
@@ -76,6 +77,7 @@ A curated collection of valuable resources for AI researchers, developers, and e
 - [LiteLLM](https://github.com/BerriAI/litellm) - Universal LLM API in OpenAI format
 - [LMQL](https://github.com/eth-sri/lmql) - Programming language for LLMs
 - [Embedchain](https://github.com/embedchain/embedchain) - Framework for personalizing LLM responses
+- [gremllm](https://github.com/awwaiid/gremllm) - Dynamic Python objects powered by LLM reasoning
 
 ## 🧰 Domain-Specific AI Tools
 
@@ -112,6 +114,8 @@ A curated collection of valuable resources for AI researchers, developers, and e
 - [OpenGlass](https://github.com/BasedHardware/OpenGlass) - AI glasses integration
 - [PubSec-Info-Assistant](https://github.com/microsoft/PubSec-Info-Assistant) - Information assistant
 - [gs-quant](https://github.com/goldmansachs/gs-quant) - Goldman Sachs quantitative tools
+- [Gemini MCP Tool](https://github.com/jamubc/gemini-mcp-tool) - MCP server connecting Gemini CLI to Claude
+- [OpenCode](https://github.com/opencode-ai/opencode) - Terminal-based AI coding assistant with TUI
 
 ## 📊 Visualization & UI Tools
 
