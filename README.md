@@ -54,15 +54,15 @@ A curated collection of valuable resources for AI researchers, developers, and e
 - [LLMs.txt](https://github.com/AnswerDotAI/llms-txt) - Standard for LLM-friendly content
 - [Anthropic Cookbook](https://github.com/anthropics/anthropic-cookbook) - Example recipes for Claude AI
 - [TRELLIS](https://github.com/microsoft/TRELLIS) - Structured 3D latents for generation
-- [Azure/multimodal-ai-llm-processing-accelerator](https://github.com/Azure/multimodal-ai-llm-processing-accelerator) - Multimodal processing pipelines
-- [microsoft/TaskWeaver](https://github.com/microsoft/TaskWeaver) - Code-first agent framework
-- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - TypeScript agent framework with observability
-- [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) - Build fullstack agents with LangGraph
-- [helloprkr/bolt.diy](https://github.com/helloprkr/bolt.diy) - DIY AI development toolkit
-- [e-p-armstrong/augmentoolkit](https://github.com/e-p-armstrong/augmentoolkit) - Create custom LLMs
-- [ax-llm/ax](https://github.com/ax-llm/ax) - DSPy framework for TypeScript
-- [mo-haggag/ROG](https://github.com/mo-haggag/ROG) - Pattern for unrestricted output length
-- [mo-haggag/claude-code-induced-introspection](https://github.com/mo-haggag/claude-code-induced-introspection) - Induced introspection with Claude Code
+- [multimodal-ai-llm-processing-accelerator](https://github.com/Azure/multimodal-ai-llm-processing-accelerator) - Multimodal processing pipelines
+- [TaskWeaver](https://github.com/microsoft/TaskWeaver) - Code-first agent framework
+- [mastra](https://github.com/mastra-ai/mastra) - TypeScript agent framework with observability
+- [gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) - Build fullstack agents with LangGraph
+- [bolt.diy](https://github.com/helloprkr/bolt.diy) - DIY AI development toolkit
+- [augmentoolkit](https://github.com/e-p-armstrong/augmentoolkit) - Create custom LLMs
+- [ax](https://github.com/ax-llm/ax) - DSPy framework for TypeScript
+- [ROG](https://github.com/mo-haggag/ROG) - Pattern for unrestricted output length
+- [claude-code-induced-introspection](https://github.com/mo-haggag/claude-code-induced-introspection) - Induced introspection with Claude Code
 
 ### Agent & Multi-Agent Frameworks
 - [Aingels](https://github.com/openSVM/aingels) - Multi-agent framework
@@ -71,19 +71,19 @@ A curated collection of valuable resources for AI researchers, developers, and e
 - [AutoGen](https://github.com/microsoft/autogen) - Framework for multiple agents
 - [MoA](https://github.com/togethercomputer/MoA) - Method of Agents for LLM collaboration
 - [Trae Agent](https://github.com/bytedance/trae-agent) - Research-focused CLI agent for software engineering tasks
-- [DavinciDreams/evolving-ai](https://github.com/DavinciDreams/evolving-ai) - Self-improving AI agent
-- [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Local Manus AI agent
-- [PodJamz/owl](https://github.com/PodJamz/owl) - Workforce learning with multiple agents
-- [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Dev team of agents in your editor
-- [camel-ai/oasis](https://github.com/camel-ai/oasis) - Large-scale agent simulation
-- [cloudflare/agents](https://github.com/cloudflare/agents) - Deploy AI agents on Cloudflare
-- [coleam00/Archon](https://github.com/coleam00/Archon) - Agent that creates other agents
-- [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents) - Collection of open source agents
-- [disler/agentic-coding-tool-eval](https://github.com/disler/agentic-coding-tool-eval) - Compare agentic coding tools
-- [disler/claude-code-hooks-multi-agent-observability](https://github.com/disler/claude-code-hooks-multi-agent-observability) - Real-time monitoring for agents
-- [disler/claude-code-is-programmable](https://github.com/disler/claude-code-is-programmable) - Claude Code as programmable agent
-- [disler/infinite-agentic-loop](https://github.com/disler/infinite-agentic-loop) - Infinite agentic loop example
-- [disler/single-file-agents](https://github.com/disler/single-file-agents) - Pack powerful agents into a single file
+- [evolving-ai](https://github.com/DavinciDreams/evolving-ai) - Self-improving AI agent
+- [agenticSeek](https://github.com/Fosowl/agenticSeek) - Local Manus AI agent
+- [owl](https://github.com/PodJamz/owl) - Workforce learning with multiple agents
+- [Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Dev team of agents in your editor
+- [oasis](https://github.com/camel-ai/oasis) - Large-scale agent simulation
+- [agents](https://github.com/cloudflare/agents) - Deploy AI agents on Cloudflare
+- [Archon](https://github.com/coleam00/Archon) - Agent that creates other agents
+- [ottomator-agents](https://github.com/coleam00/ottomator-agents) - Collection of open source agents
+- [agentic-coding-tool-eval](https://github.com/disler/agentic-coding-tool-eval) - Compare agentic coding tools
+- [claude-code-hooks-multi-agent-observability](https://github.com/disler/claude-code-hooks-multi-agent-observability) - Real-time monitoring for agents
+- [claude-code-is-programmable](https://github.com/disler/claude-code-is-programmable) - Claude Code as programmable agent
+- [infinite-agentic-loop](https://github.com/disler/infinite-agentic-loop) - Infinite agentic loop example
+- [single-file-agents](https://github.com/disler/single-file-agents) - Pack powerful agents into a single file
 
 ### Core LLM Application Frameworks
 - [LlamaIndex](https://github.com/run-llama/llama_index) - Framework for LLM applications
@@ -100,11 +100,11 @@ A curated collection of valuable resources for AI researchers, developers, and e
 - [LMQL](https://github.com/eth-sri/lmql) - Programming language for LLMs
 - [Embedchain](https://github.com/embedchain/embedchain) - Framework for personalizing LLM responses
 - [gremllm](https://github.com/awwaiid/gremllm) - Dynamic Python objects powered by LLM reasoning
-- [ExtensityAI/symbolicai](https://github.com/ExtensityAI/symbolicai) - Compositional differentiable programming
-- [google/minja](https://github.com/google/minja) - Minimalistic Jinja engine for LLM templates
-- [nshkrdotcom/claude_code_sdk_elixir](https://github.com/nshkrdotcom/claude_code_sdk_elixir) - Elixir SDK for Claude Code
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - Gemini terminal interface
-- [nathan-barry/gpt2-webgl](https://github.com/nathan-barry/gpt2-webgl) - GPT-2 running in WebGL2 with visualization
+- [symbolicai](https://github.com/ExtensityAI/symbolicai) - Compositional differentiable programming
+- [minja](https://github.com/google/minja) - Minimalistic Jinja engine for LLM templates
+- [claude_code_sdk_elixir](https://github.com/nshkrdotcom/claude_code_sdk_elixir) - Elixir SDK for Claude Code
+- [gemini-cli](https://github.com/google-gemini/gemini-cli) - Gemini terminal interface
+- [gpt2-webgl](https://github.com/nathan-barry/gpt2-webgl) - GPT-2 running in WebGL2 with visualization
 
 ## 🧰 Domain-Specific AI Tools
 
@@ -116,40 +116,40 @@ A curated collection of valuable resources for AI researchers, developers, and e
 - [Gorilla](https://github.com/ShishirPatil/gorilla) - Automating API calls
 - [Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Automated web scraping
 - [GPT-Pilot](https://github.com/Pythagora-io/gpt-pilot) - AI coding assistant
-- [ArkMaster123/GaryVoiceKokoro](https://github.com/ArkMaster123/GaryVoiceKokoro) - Kokoro powered sales tool
-- [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate online revenue
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment research platform
-- [OpenHealthForAll/open-health](https://github.com/OpenHealthForAll/open-health) - Health assistant powered by your data
-- [VirtualDrivers/Virtual-Audio-Driver](https://github.com/VirtualDrivers/Virtual-Audio-Driver) - Virtual speaker and mic for Windows
-- [R-s0n/ars0n-framework-v2](https://github.com/R-s0n/ars0n-framework-v2) - Bug bounty hunting framework
-- [nkzw-tech/athena-crisis](https://github.com/nkzw-tech/athena-crisis) - Modern-retro strategy game tech
-- [christophhart/HISE](https://github.com/christophhart/HISE) - Open source framework for sample-based instruments
-- [sohzm/cheating-daddy](https://github.com/sohzm/cheating-daddy) - Open-source app for gaming advantages
-- [Traves-Theberge/Genni](https://github.com/Traves-Theberge/Genni) - Screenshot-based reply companion
+- [GaryVoiceKokoro](https://github.com/ArkMaster123/GaryVoiceKokoro) - Kokoro powered sales tool
+- [MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate online revenue
+- [OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment research platform
+- [open-health](https://github.com/OpenHealthForAll/open-health) - Health assistant powered by your data
+- [Virtual-Audio-Driver](https://github.com/VirtualDrivers/Virtual-Audio-Driver) - Virtual speaker and mic for Windows
+- [ars0n-framework-v2](https://github.com/R-s0n/ars0n-framework-v2) - Bug bounty hunting framework
+- [athena-crisis](https://github.com/nkzw-tech/athena-crisis) - Modern-retro strategy game tech
+- [HISE](https://github.com/christophhart/HISE) - Open source framework for sample-based instruments
+- [cheating-daddy](https://github.com/sohzm/cheating-daddy) - Open-source app for gaming advantages
+- [Genni](https://github.com/Traves-Theberge/Genni) - Screenshot-based reply companion
 
 ### RAG & Knowledge Tools
 - [GraphRAG](https://github.com/microsoft/graphrag) - Graph-based RAG
 - [RAGFlow](https://github.com/infiniflow/ragflow) - RAG workflow tool
 - [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - Computer vision system
 - [Flux](https://github.com/black-forest-labs/flux) - Data engineering for LLMs
-- [OtotaO/AInfiniteContext](https://github.com/OtotaO/AInfiniteContext) - Extensible memory architecture
-- [OtotaO/SUM](https://github.com/OtotaO/SUM) - Summarizer and knowledge distiller
-- [getzep/graphiti](https://github.com/getzep/graphiti) - Real-time knowledge graphs for agents
+- [AInfiniteContext](https://github.com/OtotaO/AInfiniteContext) - Extensible memory architecture
+- [SUM](https://github.com/OtotaO/SUM) - Summarizer and knowledge distiller
+- [graphiti](https://github.com/getzep/graphiti) - Real-time knowledge graphs for agents
 
 ### Parsing & Structure
 - [Outlines](https://github.com/outlines-dev/outlines) - Convert unstructured to structured data
 - [Marvin](https://github.com/PrefectHQ/marvin) - AI engineering framework
 - [Guardrails](https://github.com/guardrails-ai/guardrails) - Data validation for LLMs
 - [Magentic](https://github.com/jackmpcollins/magentic) - Structure extraction from text
-- [jxmorris12/gptzip](https://github.com/jxmorris12/gptzip) - Lossless text compression using arithmetic coding
+- [gptzip](https://github.com/jxmorris12/gptzip) - Lossless text compression using arithmetic coding
 
 ### Web & Search Tools
 - [Firecrawl](https://github.com/mendableai/firecrawl) - Convert HTML to markdown
 - [Crawlee Python](https://github.com/apify/crawlee-python) - Web scraping library
 - [WebLlama](https://github.com/McGill-NLP/webllama) - Internet browsing with agents
 - [LLocalSearch](https://github.com/nilsherzig/LLocalSearch) - Local search with LLM agents
-- [egoist/sitefetch](https://github.com/egoist/sitefetch) - Save entire sites as text files
-- [hrishioa/wishful-search](https://github.com/hrishioa/wishful-search) - Natural language search for JSON
+- [sitefetch](https://github.com/egoist/sitefetch) - Save entire sites as text files
+- [wishful-search](https://github.com/hrishioa/wishful-search) - Natural language search for JSON
 
 ### CLI & Workflow Tools
 - [LLM Workflow Engine](https://github.com/llm-workflow-engine/llm-workflow-engine) - CLI for LLM workflows
@@ -159,18 +159,18 @@ A curated collection of valuable resources for AI researchers, developers, and e
 - [gs-quant](https://github.com/goldmansachs/gs-quant) - Goldman Sachs quantitative tools
 - [Gemini MCP Tool](https://github.com/jamubc/gemini-mcp-tool) - MCP server connecting Gemini CLI to Claude
 - [OpenCode](https://github.com/opencode-ai/opencode) - Terminal-based AI coding assistant with TUI
-- [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Kanban board for AI coding agents
-- [ajhous44/cody](https://github.com/ajhous44/cody) - Claude-powered coding assistant
+- [vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Kanban board for AI coding agents
+- [cody](https://github.com/ajhous44/cody) - Claude-powered coding assistant
 
 ## 📊 Visualization & UI Tools
 
 - [Chainlit Cookbook](https://github.com/Chainlit/cookbook) - Recipes for Chainlit UI
 - [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) - Gradio UI for LLMs
 - [Mesop](https://github.com/google/mesop) - Next-generation Streamlit alternative
-- [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - Open-source survey platform
-- [d3/d3](https://github.com/d3/d3) - Data visualization library
-- [danilofiumi/liquid-glass-svelte](https://github.com/danilofiumi/liquid-glass-svelte) - Liquid glass effect in Svelte
-- [heyform/heyform](https://github.com/heyform/heyform) - Open-source form builder
+- [LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - Open-source survey platform
+- [d3](https://github.com/d3/d3) - Data visualization library
+- [liquid-glass-svelte](https://github.com/danilofiumi/liquid-glass-svelte) - Liquid glass effect in Svelte
+- [heyform](https://github.com/heyform/heyform) - Open-source form builder
 
 ## 🚀 Deployment & Inference
 
@@ -180,8 +180,8 @@ A curated collection of valuable resources for AI researchers, developers, and e
 - [Ollama](https://github.com/ollama/ollama) - Run LLMs locally
 - [Llamafile](https://github.com/Mozilla-Ocho/llamafile) - Self-contained LLM deployment
 - [GPT4All](https://github.com/nomic-ai/gpt4all) - Run open-source LLMs locally
-- [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - Simple GGUF model runner with UI
-- [coleam00/local-ai-packaged](https://github.com/coleam00/local-ai-packaged) - Bundle common local AI tools together
+- [koboldcpp](https://github.com/LostRuins/koboldcpp) - Simple GGUF model runner with UI
+- [local-ai-packaged](https://github.com/coleam00/local-ai-packaged) - Bundle common local AI tools together
 
 ### Distributed & Server Deployment
 - [Petals](https://github.com/bigscience-workshop/petals) - Run LLMs on private swarms
@@ -189,9 +189,9 @@ A curated collection of valuable resources for AI researchers, developers, and e
 - [vLLM](https://github.com/vllm-project/vllm) - High-performance GPU inference
 - [OpenLLM](https://github.com/bentoml/OpenLLM) - Self-hosting made easy
 - [LocalAI](https://github.com/mudler/LocalAI) - Open-source OpenAI alternative
-- [supermemoryai/cloudflare-saas-stack](https://github.com/supermemoryai/cloudflare-saas-stack) - Deploy full-stack apps on Cloudflare
-- [manusa/kubernetes-mcp-server](https://github.com/manusa/kubernetes-mcp-server) - MCP server for Kubernetes
-- [anaisbetts/mcp-installer](https://github.com/anaisbetts/mcp-installer) - Install other MCP servers
+- [cloudflare-saas-stack](https://github.com/supermemoryai/cloudflare-saas-stack) - Deploy full-stack apps on Cloudflare
+- [kubernetes-mcp-server](https://github.com/manusa/kubernetes-mcp-server) - MCP server for Kubernetes
+- [mcp-installer](https://github.com/anaisbetts/mcp-installer) - Install other MCP servers
 
 ### Training & Fine-tuning
 - [H2O LLMStudio](https://github.com/h2oai/h2o-llmstudio) - No-code GUI for fine-tuning
@@ -207,11 +207,11 @@ A curated collection of valuable resources for AI researchers, developers, and e
 - [Gemma.cpp](https://github.com/google/gemma.cpp) - Lightweight C++ inference for Gemma
 - [MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - GPT-4V level multimodal LLM
 - [Grok-1](https://github.com/xai-org/grok-1) - Open-source implementation
-- [ByteDance-Seed/Bagel](https://github.com/ByteDance-Seed/Bagel) - Unified multimodal model
-- [MoonshotAI/Kimi-Dev](https://github.com/MoonshotAI/Kimi-Dev) - Coding-focused LLM
-- [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) - GPT-4o level MLLM for mobile
-- [codelion/openevolve](https://github.com/codelion/openevolve) - AlphaEvolve implementation
-- [nari-labs/dia](https://github.com/nari-labs/dia) - Ultra-realistic TTS model
+- [Bagel](https://github.com/ByteDance-Seed/Bagel) - Unified multimodal model
+- [Kimi-Dev](https://github.com/MoonshotAI/Kimi-Dev) - Coding-focused LLM
+- [MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) - GPT-4o level MLLM for mobile
+- [openevolve](https://github.com/codelion/openevolve) - AlphaEvolve implementation
+- [dia](https://github.com/nari-labs/dia) - Ultra-realistic TTS model
 
 ## 📚 Reference Collections
 
@@ -220,11 +220,11 @@ A curated collection of valuable resources for AI researchers, developers, and e
 - [Azure AI Studio](https://ai.azure.com/explore/) - Azure AI development environment
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) - Prompt collection
 - [ANN Benchmarks](https://github.com/erikbern/ann-benchmarks) - Approximate nearest neighbor
-- [PodJamz/prompts](https://github.com/PodJamz/prompts) - Prompt engineering examples
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from chatbots
-- [davidkimai/Context-Engineering](https://github.com/davidkimai/Context-Engineering) - Handbook on context design
-- [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - Large list of CLI programs
-- [syaning/awesome-frontend](https://github.com/syaning/awesome-frontend) - Frontend development resources
+- [prompts](https://github.com/PodJamz/prompts) - Prompt engineering examples
+- [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from chatbots
+- [Context-Engineering](https://github.com/davidkimai/Context-Engineering) - Handbook on context design
+- [awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - Large list of CLI programs
+- [awesome-frontend](https://github.com/syaning/awesome-frontend) - Frontend development resources
 
 ## 🎨 AI Art & Image Generation
 
@@ -248,76 +248,76 @@ A curated collection of valuable resources for AI researchers, developers, and e
 - [DeepFloyd IF](https://deepfloyd.ai/) - Advanced text-to-image model
 - [Kandinsky 2.1](https://huggingface.co/spaces/ai-forever/Kandinsky2.1) - Russian diffusion model
 - [Karlo](https://github.com/kakaobrain/karlo) - Kakao Brain's diffusion model
-- [MaartenGr/Sprite-Generator](https://github.com/MaartenGr/Sprite-Generator) - Python procedural sprite generator
-- [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - Open-source pixel art suite
-- [sjefvanleeuwen/sprite-sheet-creator](https://github.com/sjefvanleeuwen/sprite-sheet-creator) - Export animations and sprite sheets
+- [Sprite-Generator](https://github.com/MaartenGr/Sprite-Generator) - Python procedural sprite generator
+- [Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - Open-source pixel art suite
+- [sprite-sheet-creator](https://github.com/sjefvanleeuwen/sprite-sheet-creator) - Export animations and sprite sheets
 
 ### Video Generation
 - [ModelScope Text-to-Video](https://github.com/camenduru/text-to-video-synthesis-colab) - Text to video generation
 - [Tune-A-Video](https://github.com/showlab/Tune-A-Video) - Video customization from images
 - [Pix2Pix Video](https://github.com/pix2pixvideo/pix2pixvideo) - Video-to-video translation
-- [Lightricks/LTX-Video](https://github.com/Lightricks/LTX-Video) - Official repository for LTX-Video
-- [Olow304/memvid](https://github.com/Olow304/memvid) - Video-based AI memory library storing text chunks in MP4 files
+- [LTX-Video](https://github.com/Lightricks/LTX-Video) - Official repository for LTX-Video
+- [memvid](https://github.com/Olow304/memvid) - Video-based AI memory library storing text chunks in MP4 files
 
 ## 📦 Other Repositories
-- [Doriandarko/deepseek-engineer](https://github.com/Doriandarko/deepseek-engineer) - CLI coding assistant using DeepSeek
-- [EveryInc/AI_Diplomacy](https://github.com/EveryInc/AI_Diplomacy) - Diplomacy-playing frontier models
-- [GongRzhe/Office-Word-MCP-Server](https://github.com/GongRzhe/Office-Word-MCP-Server) - Work with Word documents via MCP
-- [JexinSam/mssql_mcp_server](https://github.com/JexinSam/mssql_mcp_server) - MCP server for MSSQL databases
-- [Klavis-AI/klavis](https://github.com/Klavis-AI/klavis) - MCP integration for AI apps
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) - Manage and deploy ML systems
-- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Multi-agent collaboration framework
-- [PsycheFoundation/psyche](https://github.com/PsycheFoundation/psyche) - Infrastructure for superintelligence research
-- [RPG-fan/Cline-Recursive-Chain-of-Thought-System-CRCT-](https://github.com/RPG-fan/Cline-Recursive-Chain-of-Thought-System-CRCT-) - Manage context and tasks in VS Code
-- [SakanaAI/RLT](https://github.com/SakanaAI/RLT) - Training teachers with RL
-- [SakanaAI/continuous-thought-machines](https://github.com/SakanaAI/continuous-thought-machines) - Reasoning as a process
-- [SakanaAI/treequest](https://github.com/SakanaAI/treequest) - Tree search library for inference-time scaling
-- [Traves-Theberge/webform-cli](https://github.com/Traves-Theberge/webform-cli) - Extract unstructured data with Gemini API
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Publishing and membership platform
-- [YuChenSSR/multi-ai-advisor-mcp](https://github.com/YuChenSSR/multi-ai-advisor-mcp) - Council of models for decisions
-- [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - Collection of AI agent use cases
-- [bmadcode/BMAD-METHOD](https://github.com/bmadcode/BMAD-METHOD) - Method for agile AI-driven development
-- [brightdata/brightdata-mcp](https://github.com/brightdata/brightdata-mcp) - MCP server for web access
-- [coleam00/context-engineering-intro](https://github.com/coleam00/context-engineering-intro) - Intro to context engineering
-- [coleam00/remote-mcp-server-with-auth](https://github.com/coleam00/remote-mcp-server-with-auth) - Template remote MCP server
-- [disler/quick-data-mcp](https://github.com/disler/quick-data-mcp) - Data analytics MCP server
-- [ducks-github/Dux_OS](https://github.com/ducks-github/Dux_OS) - Decentralized Linux distribution
-- [elder-plinius/L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S) - Collection of liberation prompts
-- [gcui-art/suno-api](https://github.com/gcui-art/suno-api) - API for Suno music generation
-- [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - Reactive database for app developers
-- [getAsterisk/claudia](https://github.com/getAsterisk/claudia) - GUI toolkit for Claude Code
-- [google-a2a/A2A](https://github.com/google-a2a/A2A) - Protocol for agent-to-agent communication
-- [google-a2a/a2a-python](https://github.com/google-a2a/a2a-python) - Python SDK for A2A
-- [grafana/loki](https://github.com/grafana/loki) - Log aggregation system
-- [helloprkr/dotai_boiler](https://github.com/helloprkr/dotai_boiler) - Structured memory system for assistants
-- [helloprkr/toy-programmer](https://github.com/helloprkr/toy-programmer) - Toy agent that writes programs
-- [jacksteamdev/obsidian-mcp-tools](https://github.com/jacksteamdev/obsidian-mcp-tools) - Obsidian integration via MCP
-- [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - Build-once run-anywhere C library
-- [jennyzzt/dgm](https://github.com/jennyzzt/dgm) - Open-ended evolution of self-improving agents
-- [johnousterhout/aposd-vs-clean-code](https://github.com/johnousterhout/aposd-vs-clean-code) - Clean Code vs A Philosophy of Software Design
-- [kortix-ai/suna](https://github.com/kortix-ai/suna) - Generalist AI agent
-- [kyutai-labs/unmute](https://github.com/kyutai-labs/unmute) - Make text LLMs listen and speak
-- [maxt-n8n/linkedout](https://github.com/maxt-n8n/linkedout) - Manage LinkedIn inboxes with AI
-- [microsoft/TinyTroupe](https://github.com/microsoft/TinyTroupe) - Multiagent persona simulation
-- [microsoft/qlib](https://github.com/microsoft/qlib) - Quant investment platform with AI
-- [mitsuhiko/agent-prompts](https://github.com/mitsuhiko/agent-prompts) - Prompts for agentic loops
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Collection of MCP servers
-- [musescore/MuseScore](https://github.com/musescore/MuseScore) - Open-source music notation software
-- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Claude Code routing infrastructure
-- [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Tilemap generation from examples
-- [nshkrdotcom/GUARDRAIL](https://github.com/nshkrdotcom/GUARDRAIL) - MCP security gateway
-- [nutlope/llamacoder](https://github.com/nutlope/llamacoder) - Open source Claude artifacts
-- [pgvector/pgvector](https://github.com/pgvector/pgvector) - Vector search for Postgres
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) - Python in the browser
-- [sierra-research/tau-bench](https://github.com/sierra-research/tau-bench) - Code and data for Tau-Bench
-- [southbridgeai/offmute](https://github.com/southbridgeai/offmute) - Meeting transcription experiment
-- [stefanoamorelli/nasdaq-data-link-mcp](https://github.com/stefanoamorelli/nasdaq-data-link-mcp) - Nasdaq Data Link MCP server
-- [strowk/mcp-k8s-go](https://github.com/strowk/mcp-k8s-go) - MCP server connecting to Kubernetes
-- [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures in JavaScript
-- [tylerpuig/tinyvec](https://github.com/tylerpuig/tinyvec) - Fast embedded vector database
-- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server for code documentation
-- [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - Terminal control via MCP
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - System prompts and models for AI tools
+- [deepseek-engineer](https://github.com/Doriandarko/deepseek-engineer) - CLI coding assistant using DeepSeek
+- [AI_Diplomacy](https://github.com/EveryInc/AI_Diplomacy) - Diplomacy-playing frontier models
+- [Office-Word-MCP-Server](https://github.com/GongRzhe/Office-Word-MCP-Server) - Work with Word documents via MCP
+- [mssql_mcp_server](https://github.com/JexinSam/mssql_mcp_server) - MCP server for MSSQL databases
+- [klavis](https://github.com/Klavis-AI/klavis) - MCP integration for AI apps
+- [metaflow](https://github.com/Netflix/metaflow) - Manage and deploy ML systems
+- [ChatDev](https://github.com/OpenBMB/ChatDev) - Multi-agent collaboration framework
+- [psyche](https://github.com/PsycheFoundation/psyche) - Infrastructure for superintelligence research
+- [Cline-Recursive-Chain-of-Thought-System-CRCT-](https://github.com/RPG-fan/Cline-Recursive-Chain-of-Thought-System-CRCT-) - Manage context and tasks in VS Code
+- [RLT](https://github.com/SakanaAI/RLT) - Training teachers with RL
+- [continuous-thought-machines](https://github.com/SakanaAI/continuous-thought-machines) - Reasoning as a process
+- [treequest](https://github.com/SakanaAI/treequest) - Tree search library for inference-time scaling
+- [webform-cli](https://github.com/Traves-Theberge/webform-cli) - Extract unstructured data with Gemini API
+- [Ghost](https://github.com/TryGhost/Ghost) - Publishing and membership platform
+- [multi-ai-advisor-mcp](https://github.com/YuChenSSR/multi-ai-advisor-mcp) - Council of models for decisions
+- [500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - Collection of AI agent use cases
+- [BMAD-METHOD](https://github.com/bmadcode/BMAD-METHOD) - Method for agile AI-driven development
+- [brightdata-mcp](https://github.com/brightdata/brightdata-mcp) - MCP server for web access
+- [context-engineering-intro](https://github.com/coleam00/context-engineering-intro) - Intro to context engineering
+- [remote-mcp-server-with-auth](https://github.com/coleam00/remote-mcp-server-with-auth) - Template remote MCP server
+- [quick-data-mcp](https://github.com/disler/quick-data-mcp) - Data analytics MCP server
+- [Dux_OS](https://github.com/ducks-github/Dux_OS) - Decentralized Linux distribution
+- [L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S) - Collection of liberation prompts
+- [suno-api](https://github.com/gcui-art/suno-api) - API for Suno music generation
+- [convex-backend](https://github.com/get-convex/convex-backend) - Reactive database for app developers
+- [claudia](https://github.com/getAsterisk/claudia) - GUI toolkit for Claude Code
+- [A2A](https://github.com/google-a2a/A2A) - Protocol for agent-to-agent communication
+- [a2a-python](https://github.com/google-a2a/a2a-python) - Python SDK for A2A
+- [loki](https://github.com/grafana/loki) - Log aggregation system
+- [dotai_boiler](https://github.com/helloprkr/dotai_boiler) - Structured memory system for assistants
+- [toy-programmer](https://github.com/helloprkr/toy-programmer) - Toy agent that writes programs
+- [obsidian-mcp-tools](https://github.com/jacksteamdev/obsidian-mcp-tools) - Obsidian integration via MCP
+- [cosmopolitan](https://github.com/jart/cosmopolitan) - Build-once run-anywhere C library
+- [dgm](https://github.com/jennyzzt/dgm) - Open-ended evolution of self-improving agents
+- [aposd-vs-clean-code](https://github.com/johnousterhout/aposd-vs-clean-code) - Clean Code vs A Philosophy of Software Design
+- [suna](https://github.com/kortix-ai/suna) - Generalist AI agent
+- [unmute](https://github.com/kyutai-labs/unmute) - Make text LLMs listen and speak
+- [linkedout](https://github.com/maxt-n8n/linkedout) - Manage LinkedIn inboxes with AI
+- [TinyTroupe](https://github.com/microsoft/TinyTroupe) - Multiagent persona simulation
+- [qlib](https://github.com/microsoft/qlib) - Quant investment platform with AI
+- [agent-prompts](https://github.com/mitsuhiko/agent-prompts) - Prompts for agentic loops
+- [servers](https://github.com/modelcontextprotocol/servers) - Collection of MCP servers
+- [MuseScore](https://github.com/musescore/MuseScore) - Open-source music notation software
+- [claude-code-router](https://github.com/musistudio/claude-code-router) - Claude Code routing infrastructure
+- [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Tilemap generation from examples
+- [GUARDRAIL](https://github.com/nshkrdotcom/GUARDRAIL) - MCP security gateway
+- [llamacoder](https://github.com/nutlope/llamacoder) - Open source Claude artifacts
+- [pgvector](https://github.com/pgvector/pgvector) - Vector search for Postgres
+- [pyscript](https://github.com/pyscript/pyscript) - Python in the browser
+- [tau-bench](https://github.com/sierra-research/tau-bench) - Code and data for Tau-Bench
+- [offmute](https://github.com/southbridgeai/offmute) - Meeting transcription experiment
+- [nasdaq-data-link-mcp](https://github.com/stefanoamorelli/nasdaq-data-link-mcp) - Nasdaq Data Link MCP server
+- [mcp-k8s-go](https://github.com/strowk/mcp-k8s-go) - MCP server connecting to Kubernetes
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures in JavaScript
+- [tinyvec](https://github.com/tylerpuig/tinyvec) - Fast embedded vector database
+- [context7](https://github.com/upstash/context7) - Context7 MCP Server for code documentation
+- [DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - Terminal control via MCP
+- [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - System prompts and models for AI tools
 ## Contributing
 
 Contributions are welcome! Feel free to submit a pull request with additional resources that you find valuable.
