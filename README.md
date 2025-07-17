@@ -44,6 +44,7 @@ A curated collection of valuable resources for AI researchers, developers, and e
 - [Hunyuan3D-2](https://github.com/Tencent/Hunyuan3D-2) - 3D generation model
 - [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) - List of Model Control Protocol servers
 - [AI Engineering Hub](https://github.com/patchy631/ai-engineering-hub/) - Resources for AI engineering
+- [PRPs-agentic-eng](https://github.com/Wirasm/PRPs-agentic-eng) - Product Requirement Prompt methodology and commands for agentic engineering with Claude
 - [Awesome Open Source Boilerplates](https://github.com/EinGuterWaran/awesome-opensource-boilerplates) - Open source starter templates
 
 ### LLM Frameworks & Development
